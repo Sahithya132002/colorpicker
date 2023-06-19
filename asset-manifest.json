@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/colorpicker/static/css/main.073c9b0a.css",
+    "main.js": "/colorpicker/static/js/main.e5959040.js",
+    "static/js/787.6018e935.chunk.js": "/colorpicker/static/js/787.6018e935.chunk.js",
+    "static/media/logo.svg": "/colorpicker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/colorpicker/index.html",
+    "main.073c9b0a.css.map": "/colorpicker/static/css/main.073c9b0a.css.map",
+    "main.e5959040.js.map": "/colorpicker/static/js/main.e5959040.js.map",
+    "787.6018e935.chunk.js.map": "/colorpicker/static/js/787.6018e935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e5959040.js"
+  ]
+}
